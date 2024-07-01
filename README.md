@@ -1,3 +1,4 @@
+## Hikaro Founder OF Activado LLC
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://www.discord.gg/activado) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i9_net) 
@@ -14,6 +15,7 @@
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/DOP029) 
+
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
