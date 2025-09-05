@@ -1,6 +1,14 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=29&duration=4900&pause=1300&color=25F713&background=68FF7000&center=true&vCenter=true&random=false&width=435&lines=Hello+Im+Hikaro;Founder+Of+Activado+LLC" alt="Typing SVG" /></a>
-## Hikaro (Cheat Developer, Cyber Security, Hosting Manager)
+## Hikaro (Cyber Security,Game Hacking)
 <!-- Main -->
+I’m a **Cybersecurity Red Team enthusiast** with a strong interest in offensive security, reverse engineering, and system internals. My main focus is exploring how applications work under the hood, breaking them apart, and learning how to defend against real-world attacks by thinking like an attacker.
+💻 In my free time, I enjoy diving into **game memory hacking** — working with memory, pointers, and offsets to better understand low-level programming and process manipulation. This helps me sharpen my reverse engineering and debugging skills, which I also apply in cybersecurity.
+### 🔐 What I’m into:
+* Red Teaming & Offensive Security
+* Reverse Engineering & Debugging (IDA, Ghidra, x64dbg, Cheat Engine, ReClass)
+* Memory Hacking & Game Internals
+* C, C++, and C# for low-level and tool development
+* Exploring Anti-Cheat systems and bypass techniques (EAC, BE, VAC concepts)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://www.discord.gg/activado) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i9_net)
