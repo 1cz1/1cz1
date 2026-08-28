@@ -31,7 +31,7 @@ I'm a **cybersecurity red team enthusiast** focused on offensive security, rever
 ## 🌐 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hikaro.yy)
-[![PyPI](https://img.shields.io/badge/PyPI-Hikaro-3775A9?logo=pypi&logoColor=white)](https://pypi.org/user/1cz1/)
+[![PyPI](https://img.shields.io/badge/PyPI-Hikaro-3775A9?logo=pypi&logoColor=white)](https://pypi.org/user/hikaro/)
 
 ---
 
